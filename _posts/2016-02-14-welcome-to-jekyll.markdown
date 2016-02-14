@@ -1,25 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-02-14 12:48:21 -0600
+title:  "A new blog"
+date:   2016-02-14 18:52:21
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I guess that this is my new blog now. Super simple set-up using Jekyll/markdown/material theme. I'll be using this mostly for documenting/journaling as I go for the next few months but if someone else happens to be reading this then stick around I guess.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm working on a few things at the moment. All open source of course. 😁
+A few chrome extensions, a couple of scripts, continuous updates to the look and feel and functionality of this blog, a few projects with my friend cruz.
 
-Jekyll also offers powerful support for code snippets:
+My github link is at the bottom of this site, feel free to poke around and fork something, submit a pull request, whatever! Not much else for an introductory post I feel. Will be trying to post at least weekly but aiming for whenever i'm working on something to be sure to write about it.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+See ya.
